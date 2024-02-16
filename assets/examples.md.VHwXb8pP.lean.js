@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.FghLVCew.js";const o=JSON.parse('{"title":"Demo","description":"","frontmatter":{},"headers":[],"relativePath":"examples.md","filePath":"examples.md"}'),l={name:"examples.md"},t=n("",14),h=[t];function p(k,e,E,d,r,g){return i(),a("div",null,h)}const c=s(l,[["render",p]]);export{o as __pageData,c as default};
