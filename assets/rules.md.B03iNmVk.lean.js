@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,R as t}from"./chunks/framework.CAothSqJ.js";const E=JSON.parse('{"title":"Rules","description":"","frontmatter":{},"headers":[],"relativePath":"rules.md","filePath":"rules.md"}'),e={name:"rules.md"},d=t("",118),l=[d];function h(n,p,k,o,r,c){return a(),i("div",null,l)}const u=s(e,[["render",h]]);export{E as __pageData,u as default};
