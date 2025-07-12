@@ -1,0 +1,1 @@
+import{_ as i,c as t,ag as a,o as s}from"./chunks/framework.L8ryr_Zo.js";const h=JSON.parse('{"title":"Why?","description":"","frontmatter":{},"headers":[],"relativePath":"why.md","filePath":"why.md"}'),l={name:"why.md"};function n(r,e,o,d,c,p){return s(),t("div",null,e[0]||(e[0]=[a("",5)]))}const v=i(l,[["render",n]]);export{h as __pageData,v as default};
