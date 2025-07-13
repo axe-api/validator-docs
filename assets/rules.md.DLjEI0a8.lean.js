@@ -1,1 +1,0 @@
-import{_ as i,c as t,ag as a,o as e}from"./chunks/framework.L8ryr_Zo.js";const c=JSON.parse('{"title":"Rules","description":"","frontmatter":{},"headers":[],"relativePath":"rules.md","filePath":"rules.md"}'),d={name:"rules.md"};function l(n,s,h,p,k,o){return e(),t("div",null,s[0]||(s[0]=[a("",118)]))}const g=i(d,[["render",l]]);export{c as __pageData,g as default};
